@@ -1,0 +1,25 @@
+body{
+  background-image: url(./mainbg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+}
+.headerbar{
+  padding: auto;
+  color: aliceblue;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(111, 111, 194);
+  height: 60px;
+}
+.footerbar{
+  margin-top: 10%;
+  padding-top:10px ;
+  color: aliceblue;
+  justify-content: center;
+  text-align: center;
+  align-self: flex-end;
+  background-color: rgb(111, 111, 194);
+  height: auto;
+  padding-bottom: 10px;
+}
